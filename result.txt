@@ -1,0 +1,5 @@
+Test 1: stat file exists OK
+
+Test 2: 10 lines in stat.txt: 10 OK
+
+Test 3: no lock corruption (all exit 0): OK
